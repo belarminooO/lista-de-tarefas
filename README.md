@@ -6,9 +6,13 @@ Aplicação web simples para registar e remover tarefas. Os dados permanecem gua
   <img src="./docs/media/preview.png" alt="Pré-visualização da Lista de Tarefas" width="900" />
 </a>
 
+---
+
 ## Vídeo de demonstração
 
 [▶ Ver demonstração curta](./docs/media/demo.mp4)
+
+---
 
 ## Funcionalidades
 
@@ -16,11 +20,15 @@ Aplicação web simples para registar e remover tarefas. Os dados permanecem gua
 - Remoção de tarefas individuais.
 - Persistência da lista entre sessões do navegador com `localStorage`.
 
+---
+
 ## O que aprofundei
 
 - Seleção e atualização de elementos do DOM com JavaScript.
 - Criação dinâmica de itens de lista e associação de eventos de remoção.
 - Manipulação de arrays e persistência de dados com `localStorage` e `JSON`.
+
+---
 
 ## Tecnologias
 
@@ -30,7 +38,23 @@ Aplicação web simples para registar e remover tarefas. Os dados permanecem gua
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
 </div>
 
+---
+
 ## Como executar
 
 Abra `index.html` no navegador. Não requer dependências nem servidor local.
 
+---
+
+## Contacto
+
+<a href="https://www.linkedin.com/in/belarmino-sacate-1b830037b/">
+  <img align="center" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+  LinkedIn Profile
+</a>
+<br>
+<br>
+<a href="mailto:belarmino.s.bs@gmail.com">
+  <img align="center" alt="Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+  belarmino.s.bs@gmail.com
+</a>
